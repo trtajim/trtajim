@@ -28,9 +28,9 @@ Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate abo
 
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trtajim&show_icons=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trtajim)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trtajim&layout=compact)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trtajim&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=trtajim)
 
