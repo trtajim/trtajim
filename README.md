@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Tajim
-[![wakatime](https://wakatime.com/badge/user/tajim.svg)](https://wakatime.com/@tajim)
+[![wakatime](https://wakatime.com/badge/user/deb0ebf4-b7fb-4a99-9684-e1c3bfe2b7de.svg)](https://wakatime.com/@deb0ebf4-b7fb-4a99-9684-e1c3bfe2b7de)
+
+
 Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate about crafting efficient, scalable solutions and building technology that serves the community.
 
 ---
