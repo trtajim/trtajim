@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tajim
-
+[![wakatime](https://wakatime.com/badge/user/tajim.svg)](https://wakatime.com/@tajim)
 Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate about crafting efficient, scalable solutions and building technology that serves the community.
 
 ---
@@ -12,7 +12,7 @@ Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate abo
 | **Web** | Laravel, Vue.js, PHP, MySQL, Tailwind CSS |
 | **Hardware** | Arduino, IoT Integration, Bluetooth Modules |
 | **Tools** | Linux (Ubuntu/Mint), Git, Bash, cPanel, VS Code |
-| **Logic** | C++ (Competitive Programming) |
+| **CP** | C++ (Competitive Programming) |
 
 ---
 
