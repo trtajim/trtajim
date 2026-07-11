@@ -11,7 +11,7 @@ Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate abo
 | Domain | Technologies |
 | --- | --- |
 | **Mobile** | Java, Android SDK, XML |
-| **Web** | Laravel, Vue.js, PHP, MySQL, Tailwind CSS |
+| **Web** | Laravel, Vue.js, React.js, PHP, MySQL, Tailwind CSS |
 | **Hardware** | Arduino, IoT Integration, Bluetooth Modules |
 | **Tools** | Linux (Ubuntu/Mint), Git, Bash, cPanel, VS Code |
 | **CP** | C++ (Competitive Programming) |
