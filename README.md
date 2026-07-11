@@ -30,8 +30,6 @@ Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate abo
 
 ## 📊 GitHub Metrics
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trtajim&theme=github_dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=trtajim)
 
 ## 📫 Let's Connect
