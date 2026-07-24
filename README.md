@@ -1,49 +1,59 @@
 # 👋 Hi, I'm Tajim
+
 [![wakatime](https://wakatime.com/badge/user/deb0ebf4-b7fb-4a99-9684-e1c3bfe2b7de.svg)](https://wakatime.com/@deb0ebf4-b7fb-4a99-9684-e1c3bfe2b7de)
 
+**Full-stack Developer • Founder • Competitive Programmer • IoT Enthusiast**
 
-Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate about crafting efficient, scalable solutions and building technology that serves the community.
+I am a developer passionate about building impactful software, solving real-world problems, and creating technology that helps people. I enjoy turning ideas into complete products — from design and development to deployment and maintenance.
 
 ---
-
 
 ## 🌟 Featured Project
 
-### 📚 [HSCStack](https://hscstack.mvp.bd)
-Founder & Developer of HSCStack — an educational platform built for HSC students to access organized study resources, notes, and learning materials.
+## 📚 HSCStack
+### Founder & Lead Developer
 
-🚀 Growing community with **500+ users**.
+🔗 https://hscstack.mvp.bd
+
+An open source educational platform built to help HSC students access organized study resources, notes, and learning materials in one place.
+
+**Impact & Achievements**
+- 🚀 Reached **500+ users**
+- 🏗️ Designed, developed, and deployed the entire platform independently
+- 📖 Built a structured resource management system for educational content
+- 🎯 Created to improve accessibility to quality learning resources for students
+
+**Built With**
+
+`Laravel` `Vue.js` `Inertia.js` `MySQL` `Tailwind CSS`
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technical Skills
 
-| Domain | Technologies |
+| Category | Technologies |
 | --- | --- |
-| **Mobile** | Java, Android SDK, XML |
-| **Web** | Laravel, Vue.js, React.js, PHP, MySQL, Tailwind CSS |
-| **Hardware** | Arduino, IoT Integration, Bluetooth Modules |
-| **Tools** | Linux (Ubuntu/Mint), Git, Bash, cPanel, VS Code |
-| **CP** | C++ (Competitive Programming) |
+| **Web Development** | Laravel, Vue.js, React.js, PHP, MySQL, Tailwind CSS |
+| **Mobile Development** | Java, Android SDK, XML |
+| **Programming** | C++, Data Structures & Algorithms |
+| **Hardware & IoT** | Arduino, IoT Integration, Bluetooth Modules |
+| **Tools & Environment** | Linux, Git, Bash, cPanel, VS Code |
 
 ---
 
-## 🛠️ Expertise & Focus
+## 💡 Areas of Interest
 
-* **Full-Stack Android:** Building robust mobile applications with Java, focusing on performance and clean UI/UX.
-* **Web Ecosystem:** Developing modern, responsive web applications utilizing the power of the Laravel framework paired with the reactive capabilities of Vue.js.
-* **Competitive Programming:** Actively sharpening my problem-solving skills and algorithmic thinking using C++.
-* **Embedded Systems:** Bridging the physical and digital worlds through Arduino-based IoT projects.
-* **Open Source & Impact:** Dedicated to leveraging my technical skillset to provide pro-bono development services for non-profits and community-focused initiatives.
+- Full-stack application development
+- Software architecture and scalable systems
+- Competitive programming and problem solving
+- Open-source and community-focused technology
+- Embedded systems and IoT
 
 ---
 
 ## 📫 Let's Connect
 
-* **Website:** [tajimz.xyz](https://tajimz.xyz)
-* **Email:** [hello@tajimz.xyz](https://www.google.com/search?q=mailto%3Ahello%40tajimz.xyz)
+🌐 Website: https://tajimz.xyz  
+📧 Email: hello@tajimz.xyz
 
 ---
-
-
-
