@@ -17,15 +17,9 @@ I am a developer passionate about building impactful software, solving real-worl
 
 An open source educational platform built to help HSC students access organized study resources, notes, and learning materials in one place.
 
-**Impact & Achievements**
 - 🚀 Reached **500+ users**
-- 🏗️ Designed, developed, and deployed the entire platform independently
-- 📖 Built a structured resource management system for educational content
-- 🎯 Created to improve accessibility to quality learning resources for students
-
-**Built With**
-
-`Laravel` `Vue.js` `Inertia.js` `MySQL` `Tailwind CSS`
+- 🏗️ Designed, developed, and deployed independently
+- 🎯 Built to improve access to quality educational resources
 
 ---
 
