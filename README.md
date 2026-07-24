@@ -17,6 +17,7 @@ I am a developer passionate about building impactful software, solving real-worl
 
 An open source educational platform built to help HSC students access organized study resources, notes, and learning materials in one place.
 
+**Impact & Achievements**
 - 🚀 Reached **500+ users**
 - 🏗️ Designed, developed, and deployed independently
 - 🎯 Built to improve access to quality educational resources
