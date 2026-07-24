@@ -6,6 +6,16 @@ Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate abo
 
 ---
 
+
+## 🌟 Featured Project
+
+### 📚 [HSCStack](https://hscstack.mvp.bd)
+Founder & Developer of HSCStack — an educational platform built for HSC students to access organized study resources, notes, and learning materials.
+
+🚀 Growing community with **500+ users**.
+
+---
+
 ## 🚀 Tech Stack
 
 | Domain | Technologies |
