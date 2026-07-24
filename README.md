@@ -28,10 +28,6 @@ Full-stack developer, Competitive Programmer, and IoT enthusiast. Passionate abo
 
 ---
 
-## 📊 GitHub Metrics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=trtajim)
-
 ## 📫 Let's Connect
 
 * **Website:** [tajimz.xyz](https://tajimz.xyz)
