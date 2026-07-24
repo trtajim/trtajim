@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/deb0ebf4-b7fb-4a99-9684-e1c3bfe2b7de.svg)](https://wakatime.com/@deb0ebf4-b7fb-4a99-9684-e1c3bfe2b7de)
 
-**Full-stack Developer • Founder • Competitive Programmer • IoT Enthusiast**
+**Full-stack Developer • Competitive Programmer • IoT Enthusiast**
 
 I am a developer passionate about building impactful software, solving real-world problems, and creating technology that helps people. I enjoy turning ideas into complete products — from design and development to deployment and maintenance.
 
