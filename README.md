@@ -38,17 +38,11 @@ An open source educational platform built to help HSC students access organized 
 
 ## 💡 Areas of Interest
 
-- Full-stack application development
-- Software architecture and scalable systems
+- Full-stack SAAS development
 - Competitive programming and problem solving
-- Open-source and community-focused technology
 - Embedded systems and IoT
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Projects: https://tajimz.xyz/projects
 
-🌐 Website: https://tajimz.xyz  
-📧 Email: hello@tajimz.xyz
-
----
