@@ -36,13 +36,5 @@ An open source educational platform built to help HSC & SSC students access orga
 
 ---
 
-## 💡 Areas of Interest
-
-- Full-stack SAAS development
-- Competitive programming and problem solving
-- Embedded systems and IoT
-
----
-
 ## 🌐 Projects: https://tajimz.xyz/projects
 
