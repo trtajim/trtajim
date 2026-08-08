@@ -32,5 +32,6 @@ An open-source platform for HSC & SSC students in Bangladesh to find study resou
 | **DevOps** | Linux, Bash, cPanel |
 ---
 
-## 🌐 Projects: https://tajimz.xyz/projects
+## Portfolio
 
+[**tajimz.xyz**](https://tajimz.xyz/)
