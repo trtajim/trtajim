@@ -26,9 +26,9 @@ An open-source platform for HSC & SSC students in Bangladesh to find study resou
 
 | Category | Technologies |
 | --- | --- |
-| **Web Development** | Laravel, Vue.js, React.js, PHP, MySQL, Tailwind CSS |
+| **Web Development** | Laravel, Vue.js, React.js, PHP, MySQL|
 | **Mobile Development** | Java, Android SDK, XML |
-| **Programming** | C++, Data Structures & Algorithms |
+| **Competitive Programming** | C, C++|
 | **Hardware & IoT** | Arduino, IoT Integration, Bluetooth Modules |
 | **Tools & Environment** | Linux, Git, Bash, cPanel, VS Code |
 
