@@ -4,8 +4,6 @@
 
 **Full-stack Developer • Competitive Programmer • IoT Enthusiast**
 
-I am a developer passionate about building impactful software, solving real-world problems, and creating technology that helps people. I enjoy turning ideas into complete products — from design and development to deployment and maintenance.
-
 ---
 
 ## 🌟 Featured Project
