@@ -30,7 +30,7 @@ An open-source platform for HSC & SSC students in Bangladesh to find study resou
 | **Mobile Development** | Java, Android SDK, XML |
 | **Competitive Programming** | C, C++|
 | **Hardware & IoT** | Arduino, IoT Integration, Bluetooth Modules |
-| **Tools & Environment** | Linux, Git, Bash, cPanel, VS Code |
+| **DevOps & Environment** | Linux, Bash, cPanel|
 
 ---
 
