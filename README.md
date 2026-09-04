@@ -11,12 +11,12 @@ I build web applications, Android apps, and developer-focused projects. I mainly
 ## Featured Project
 
 ## HSCStack
-**Founder & Lead Developer** · [hscstack.site](https://hscstack.site)
+**Lead Developer** · [hscstack.site](https://hscstack.site)
 
 An open-source platform for HSC & SSC students in Bangladesh to find study resources, notes, and learning materials in one place.
 
 - 2,000+ users who have visited and used the platform
-- 300+ registered users with accounts
+- 500+ registered users with accounts
 - Designed, developed, and deployed independently
 - Open-source and community-driven
 
