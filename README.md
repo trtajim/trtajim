@@ -15,8 +15,8 @@ I build web applications, Android apps, and developer-focused projects. I mainly
 
 An open-source platform for HSC & SSC students in Bangladesh to find study resources, notes, and learning materials in one place.
 
-- 2,600+ users who have visited and used the platform
-- 650+ registered users with accounts
+- 5,000+ users who have visited and used the platform
+- 800+ registered users with accounts
 - Designed, developed, and deployed independently
 - Open-source and community-driven
 
