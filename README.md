@@ -22,4 +22,4 @@ I build web applications, Android apps, and developer-focused tools.
 
 ---
 
-👉 *For detailed project breakdown and interactive demos, visit my [Personal Website](https://tajimz.xyz).*
+👉 Explore my full portfolio and projects at [tajimz.xyz](https://tajimz.xyz)*
