@@ -1,34 +1,25 @@
-# Hi, I'm Tajim
+# Hi, I'm Tajim 👋
 
 [![wakatime](https://wakatime.com/badge/user/deb0ebf4-b7fb-4a99-9684-e1c3bfe2b7de.svg)](https://wakatime.com/@deb0ebf4-b7fb-4a99-9684-e1c3bfe2b7de)
 
 **Full-stack Developer • Competitive Programmer • IoT Enthusiast**
 
-I build web applications, Android apps, and developer-focused projects. I mainly work with Laravel, Vue.js, React, PHP, Java, and C++.
+I build web applications, Android apps, and developer-focused tools.
 
 ---
 
-## Featured Project
-
-## HSCStack
-**Lead Developer** · [hscstack.site](https://hscstack.site)
-
-An open-source platform for HSC & SSC students in Bangladesh to find study resources, notes, and learning materials in one place.
-
-- 1150+ registered users with accounts
-- Designed, developed, and deployed independently
-- Open-source and community-driven
+### 🚀 Featured Project
+**[HSCStack](https://hscstack.site)** — Open-source learning resource platform for HSC & SSC students in Bangladesh.
+- **1,150+** registered users · Designed, built & deployed independently.
 
 ---
 
-## Technical Skills
+### 🛠️ Core Stack
+- **Web Development:** Laravel, PHP, Vue.js, React.js, MySQL
+- **App Development:** Android (Java), Android SDK, XML
+- **Languages:** C, C++, Java, JavaScript, PHP
+- **IoT & Systems:** Arduino, Linux, Bash
 
-| Category | Technologies |
-|---|---|
-| **Web** | Laravel, PHP, Vue.js, React.js, MySQL |
-| **Mobile** | Java, Android SDK, XML |
-| **Programming** | C, C++ |
-| **IoT** | Arduino, IoT integration |
-| **DevOps** | Linux, Bash, cPanel |
 ---
 
+👉 *For detailed project breakdown and interactive demos, visit my [Personal Website](https://tajimz.xyz).*
