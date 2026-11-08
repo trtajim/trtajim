@@ -10,7 +10,7 @@ I build web applications, Android apps, and developer-focused tools.
 
 ### 🚀 Featured Project
 **[HSCStack](https://hscstack.site)** — Open-source learning resource platform for HSC & SSC students in Bangladesh.
-- **1,150+** registered users · Designed, built & deployed independently.
+- **2,000+** registered users · Designed, built & deployed independently.
 
 ---
 
